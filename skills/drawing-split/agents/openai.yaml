@@ -1,0 +1,4 @@
+interface:
+  display_name: "图纸拆分"
+  short_description: "按图框、图号或空间分组拆分 DWG/PDF 并命名"
+  default_prompt: "Use $drawing-split to split framed or frameless DWG/PDF sheets by title block and spatial grouping."

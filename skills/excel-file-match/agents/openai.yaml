@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel 文件匹配与补录"
+  short_description: "匹配图纸文件、补录表格字段及图纸类别并插入断面图图片"
+  default_prompt: "Use $excel-file-match to reconcile Excel records with drawing files, copy matches, and add missing rows with section images and file categories."
